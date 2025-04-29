@@ -11,8 +11,6 @@ Geographical Performance: Evaluate performance by region, state, and city.
 
 Product Category Insights: Drill down into categories and sub-categories to understand their profitability and volume.
 
-Discount Impact: Analyze how discounts affect sales and profit outcomes.
-
 Shipping Insights: Study the effect of different shipping methods on delivery time and profitability.
 
 📂 Dataset Source
