@@ -15,8 +15,6 @@ Discount Impact: Analyze how discounts affect sales and profit outcomes.
 
 Shipping Insights: Study the effect of different shipping methods on delivery time and profitability.
 
-Visualizations: Interactive graphs for univariate, bivariate, and multivariate analysis.
-
 📂 Dataset Source
 The dataset used in this project is the Superstore Sales Dataset, available on:
 
